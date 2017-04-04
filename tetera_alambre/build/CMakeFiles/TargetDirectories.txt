@@ -1,0 +1,1 @@
+/home/user/Documentos/tetera_alambre/build/CMakeFiles/hello.dir
